@@ -23,8 +23,8 @@ Follow these steps to get the app running locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/malikmoaz01/ai-mentor-app.git
-cd ai-mentor-app
+git clone https://github.com/malikmoaz01/IntroVision-AI.git
+cd IntroVision-AI
 
 # Backend Setup
 cd backend
