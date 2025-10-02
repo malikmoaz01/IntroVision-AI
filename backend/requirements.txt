@@ -1,0 +1,19 @@
+streamlit           # Web UI banane ke liye
+langchain-groq      # LangChain ka Groq LLM integration
+langchain           # LLM framework (prompting, chains, tools, etc.)
+langchain-community # Extra integrations aur community modules
+
+gTTS                # Google Text-to-Speech (voice output)
+pyttsx3             # Offline Text-to-Speech engine
+
+torch               # Whisper aur ML models ke liye dependency
+whisper             # OpenAI Whisper (Speech-to-Text)
+
+numpy               # Numerical computing (arrays, maths ops)
+pydub               # Audio file processing (split, merge, convert)
+librosa             # Audio analysis (MFCC, spectrograms, etc.)
+soundfile           # Audio read/write support
+
+python-dotenv       # .env file se API keys/config load karne ke liye
+requests            # HTTP requests (Groq API, etc.)
+uuid                # Unique IDs generate karne ke liye
